@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:700');
+
+
+.pjt-class > h3{
+    background-color: aquamarine;
+    border: 1;
+    height: 500px;
+}
